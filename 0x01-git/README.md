@@ -1,2 +1,1 @@
-i am learning git
-learning git is fun
+i am learning git, learning git is fun
